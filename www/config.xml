@@ -9,14 +9,14 @@
     A simple complaint application with maps.
   </description>
   <platform name="android">
-   
+  
   </platform>
   <!--<plugin name="cordova-plugin-geolocation" spec="~1.0.0" />-->
   
   <!--<gap:plugin name="de.appplant.cordova.plugin.email-composer" />-->
   
   <author href="#">
- 
+    Neeschal Kissoon
   </author>
  
 </widget>
