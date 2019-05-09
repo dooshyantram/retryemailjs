@@ -6,7 +6,7 @@
   <name>Complaint with Geolocation</name>
 
   <description>
-    A simple complaint application with maps.
+    Email Test
   </description>
   <platform name="android">
   
@@ -16,7 +16,7 @@
   <!--<gap:plugin name="de.appplant.cordova.plugin.email-composer" />-->
   
   <author href="#">
-    Neeschal Kissoon
+    Dooshyant
   </author>
  
 </widget>
