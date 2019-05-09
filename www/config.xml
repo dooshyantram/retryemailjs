@@ -9,7 +9,7 @@
     A simple complaint application with maps.
   </description>
   <platform name="android">
-    <icon src="img/android/map.png" platform="android" width="64" height="64" density="ldpi" />
+   
   </platform>
   <!--<plugin name="cordova-plugin-geolocation" spec="~1.0.0" />-->
   
